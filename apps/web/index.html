@@ -3,61 +3,53 @@
 
 <head>
   <meta charset="UTF-8" />
-  <title>Kaneo</title>
-  <meta name="title" content="Kaneo: Project management that doesn't become the project">
+  <title>SD Work Associates</title>
+  <meta name="title" content="SD Work Associates: Project management that doesn't become the project">
   <meta name="description"
     content="Project management that doesn't become the project. Boards, Gantt charts, and GitHub integration for your team.">
   <meta name="keywords" content="project management, task management, kanban, issue tracking, team collaboration">
 
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://kaneo.app">
-  <meta property="og:title" content="Kaneo: Project management that doesn't become the project">
+  <meta property="og:url" content="https://sdworkassociates.sabzdaaman.com">
+  <meta property="og:title" content="SD Work Associates: Project management that doesn't become the project">
   <meta property="og:description"
-    content="Boards, Gantt charts, and GitHub integration, hosted for you on Kaneo Cloud. Start a 14-day free trial, no credit card required.">
-  <meta property="og:image" content="https://assets.kaneo.app/readme.png">
+    content="Boards, Gantt charts, and GitHub integration, hosted for you on SD Work Associates.">
+  <meta property="og:image" content="/logo.png">
 
   <meta property="twitter:card" content="summary_large_image">
-  <meta property="twitter:url" content="https://kaneo.app">
-  <meta property="twitter:title" content="Kaneo: Project management that doesn't become the project">
+  <meta property="twitter:url" content="https://sdworkassociates.sabzdaaman.com">
+  <meta property="twitter:title" content="SD Work Associates: Project management that doesn't become the project">
   <meta property="twitter:description"
-    content="Boards, Gantt charts, and GitHub integration, hosted for you on Kaneo Cloud. Start a 14-day free trial, no credit card required.">
-  <meta property="twitter:image" content="https://assets.kaneo.app/readme.png">
+    content="Boards, Gantt charts, and GitHub integration, hosted for you on SD Work Associates.">
+  <meta property="twitter:image" content="/logo.png">
 
-  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  <link rel="shortcut icon" href="/favicon.svg" />
-  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-  <meta name="apple-mobile-web-app-title" content="Kaneo" />
+  <link rel="icon" type="image/png" href="/logo.png" />
+  <link rel="shortcut icon" href="/logo.png" />
+  <link rel="apple-touch-icon" href="/launchericon-192x192.png" />
+  <meta name="apple-mobile-web-app-title" content="SD Work Associates" />
   <link rel="manifest" href="/site.webmanifest" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="application-name" content="Kaneo">
-  <link rel="canonical" href="https://kaneo.app">
+  <meta name="application-name" content="SD Work Associates">
+  <link rel="canonical" href="https://sdworkassociates.sabzdaaman.com">
 
   <script>
-    if (window.location.hostname === 'demo.kaneo.app') {
-      const script = document.createElement('script');
-      script.defer = true;
-      script.setAttribute('data-domain', 'demo.kaneo.app');
-      script.src = 'https://plausible.kaneo.app/js/script.js';
-      document.head.appendChild(script);
-    }
-
-    if (window.location.hostname === 'cloud.kaneo.app') {
-      window.plausible = window.plausible || function () {
-        (window.plausible.q = window.plausible.q || []).push(arguments);
-      };
-      const script = document.createElement('script');
-      script.defer = true;
-      script.setAttribute('data-domain', 'cloud.kaneo.app');
-      script.src = 'https://plausible.kaneo.app/js/script.js';
-      document.head.appendChild(script);
-    }
+    // Analytics code removed for your private instance
   </script>
 </head>
 
 <body>
   <div id="root"></div>
   <script type="module" src="/src/main.tsx"></script>
+  
+  <!-- Service Worker for PWA Installation -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js').catch(err => console.log('SW registration failed: ', err));
+      });
+    }
+  </script>
 </body>
 
 </html>
