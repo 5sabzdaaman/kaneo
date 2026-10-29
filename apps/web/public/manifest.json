@@ -1,7 +1,7 @@
 {
-  "name": "SD Work Associates",
-  "short_name": "SD Work",
-  "description": "Sabz Daaman App | Collaboration | Team | Work With Associates",
+  "name": "Team | Work | Collaboration",
+  "short_name": "Work With Associates",
+  "description": "5SD | Collaboration | Team | Work | Associates",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
