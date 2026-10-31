@@ -1,7 +1,7 @@
 {
-  "name": "Team | Work | Collaboration",
-  "short_name": "Work With Associates",
-  "description": "5SD | Collaboration | Team | Work | Associates",
+  "name": "SD Work Associates",
+  "short_name": "SD Work",
+  "description": "Quality Control Project Management",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
@@ -11,13 +11,13 @@
       "src": "/launchericon-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
       "src": "/launchericon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
