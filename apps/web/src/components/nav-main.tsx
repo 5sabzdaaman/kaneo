@@ -3,8 +3,12 @@ import {
   CircleCheck,
   House,
   Inbox,
+  LayoutGrid,
   type LucideIcon,
   Mail,
+  Search,
+  Sparkles,
+  Sun,
   Users,
 } from "lucide-react";
 import { useTranslation } from "react-i18next";
@@ -67,6 +71,10 @@ export function NavMain() {
       icon: Users,
       url: `${homeUrl}/members`,
     },
+    { title: "SD Home", icon: Sun, url: `${homeUrl}/sd-home` },
+    { title: "SD Tools", icon: LayoutGrid, url: `${homeUrl}/sd-tools` },
+    { title: "Get more features", icon: Sparkles, url: `${homeUrl}/sd-store` },
+    { title: "Search", icon: Search, url: `${homeUrl}/search` },
   ];
 
   // Invitations to other workspaces only matter while one is waiting.
