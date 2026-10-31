@@ -1,6 +1,6 @@
 {
 	"common": {
-		"appName": "Kaneo",
+		"appName": "SD Work Associates",
 		"actions": {
 			"cancel": "Ləğv et",
 			"close": "Bağla",
@@ -96,7 +96,7 @@
 				"errorToast": "Layihəni yaratmaq alınmadı"
 			},
 			"createWorkspace": {
-				"breadcrumbKaneo": "KANEO",
+				"breadcrumbKaneo": "SD WORK ASSOCIATES",
 				"title": "Yeni iş sahəsi yarat",
 				"description": "İş sahəniz üçün ad daxil edərək yeni iş sahəsi yaradın.",
 				"namePlaceholder": "İş sahəsinin adı",
@@ -185,7 +185,7 @@
 				"use_a_permanent_email_address_disposable_addresses_cannot_create_accounts_": "Daimi e-poçt ünvanından istifadə edin. Birdəfəlik ünvanlarla hesab yaratmaq olmur."
 			},
 			"instanceStatusError": "Serverə çatmaq mümkün olmadı. Bir az sonra yenidən cəhd edin.",
-			"heading": "Kaneo-ya daxil olun",
+			"heading": "SD Work Associates-ya daxil olun",
 			"submitPassword": "Daxil ol",
 			"invitation": {
 				"title": "{{inviterName}} sizi {{workspaceName}} iş sahəsinə dəvət edib",
@@ -193,7 +193,7 @@
 				"description": "Dəvətin göndərildiyi e-poçtla daxil olun. Dərhal sonra iş sahəsinə qoşulacaqsınız."
 			},
 			"footer": {
-				"newHere": "Kaneo-da yenisiniz?",
+				"newHere": "SD Work Associates-da yenisiniz?",
 				"createAccount": "Hesab yarat",
 				"inviteOnly": "Burada hesablar yalnız dəvətlə yaradılır. Administratordan dəvət istəyin.",
 				"providerSignUp": "Yenisiniz? Hesab yaratmaq üçün yuxarıdakı provayderlərdən biri ilə daxil olun.",
@@ -248,7 +248,7 @@
 			"toggleMessage": "Artıq hesabınız var?",
 			"toggleLink": "Daxil ol",
 			"instanceStatusError": "Serverə çatmaq mümkün olmadı. Bir az sonra yenidən cəhd edin.",
-			"instanceAdminTitle": "Kaneo quraşdırmanızı hazırlayın",
+			"instanceAdminTitle": "SD Work Associates quraşdırmanızı hazırlayın",
 			"instanceAdminSubtitle": "Bu hesab tam giriş hüququ ilə quraşdırmanın inzibatçısı olur.",
 			"heading": "Hesabınızı yaradın",
 			"submitPassword": "Hesab yarat",
@@ -302,7 +302,7 @@
 				"acceptFailed": "Dəvəti qəbul etmək alınmadı",
 				"acceptSuccess": "Dəvət qəbul edildi! Komandaya xoş gəlmisiniz."
 			},
-			"description": "{{inviterName}} sizi Kaneo-da bu iş sahəsinə dəvət edib.",
+			"description": "{{inviterName}} sizi SD Work Associates-da bu iş sahəsinə dəvət edib.",
 			"invitedBy": "Dəvət edən",
 			"sentTo": "Göndərildiyi ünvan",
 			"signedInAs": "Daxil olduğunuz hesab",
@@ -310,7 +310,7 @@
 			"notNow": "İndi yox",
 			"join": "İş sahəsinə qoşul",
 			"switchAccount": "Hesabı dəyiş",
-			"goToKaneo": "Kaneo-ya keç",
+			"goToKaneo": "SD Work Associates-ya keç",
 			"mismatch": {
 				"title": "Başqa e-poçtla daxil olmusunuz",
 				"description": "Bu dəvət {{invitedEmail}} ünvanına göndərilib. Siz {{email}} hesabı ilə daxil olmusunuz."
@@ -329,7 +329,7 @@
 			}
 		},
 		"onboarding": {
-			"pageTitle": "Kaneo-ya xoş gəlmisiniz",
+			"pageTitle": "SD Work Associates-ya xoş gəlmisiniz",
 			"workspaceName": "İş sahəsinin adı",
 			"workspaceNamePlaceholder": "Məs., Acme Inc, komandam",
 			"toast": {
@@ -377,7 +377,7 @@
 				},
 				"invite": {
 					"title": "Komandanızı dəvət edin",
-					"description": "Kaneo hamı bir yerdə olanda daha yaxşı işləyir. İnsanları e-poçtla dəvət etmək üçün yan paneldə **Üzvlər** bölməsini açın."
+					"description": "SD Work Associates hamı bir yerdə olanda daha yaxşı işləyir. İnsanları e-poçtla dəvət etmək üçün yan paneldə **Üzvlər** bölməsini açın."
 				},
 				"integrations": {
 					"title": "GitHub, GitLab və ya Gitea qoşun",
@@ -507,7 +507,7 @@
 		"device": {
 			"connect": {
 				"title": "Cihaz qoşun",
-				"description": "Kaneo hesabınıza bağlamaq üçün terminalda və ya tətbiqdə göstərilən kodu daxil edin.",
+				"description": "SD Work Associates hesabınıza bağlamaq üçün terminalda və ya tətbiqdə göstərilən kodu daxil edin.",
 				"label": "Cihaz kodu",
 				"submit": "Davam et",
 				"noCode": "Hələ kodunuz yoxdur? Əvvəlcə tətbiqinizdən girişə başlayın.",
@@ -541,7 +541,7 @@
 				"description": "Təsdiqləmək üçün dərhal bura qayıdacaqsınız.",
 				"submit": "Daxil ol"
 			},
-			"openApp": "Open Kaneo"
+			"openApp": "Open SD Work Associates"
 		},
 		"mcp": {
 			"authorize": {
@@ -614,7 +614,7 @@
 		"notificationsPage": {
 			"pageTitle": "Bildirişlər",
 			"title": "Bildirişlər",
-			"subtitle": "Kaneo sizə nə barədə bildiriş göndərir və onlar sizə harada çatır.",
+			"subtitle": "SD Work Associates sizə nə barədə bildiriş göndərir və onlar sizə harada çatır.",
 			"statusConnected": "Qoşulub",
 			"statusPaused": "Dayandırılıb",
 			"emailTitle": "E-poçt",
@@ -647,7 +647,7 @@
 			"webhookUrlPlaceholder": "https://example.com/webhooks/kaneo",
 			"webhookSecretPlaceholder": "İstəyə bağlı ortaq sirr",
 			"webhookSecretHintConfigured": "İmzalama sirri artıq təyin edilib ({{masked}}). Əvəzləmək üçün yenisini daxil edin.",
-			"webhookSecretHintOptional": "Sirr təyin edildikdə Kaneo sorğunun gövdəsini imzalayır.",
+			"webhookSecretHintOptional": "Sirr təyin edildikdə SD Work Associates sorğunun gövdəsini imzalayır.",
 			"connectWebhook": "Webhook-a qoşul",
 			"eventPreferencesTitle": "Mənə bunlar barədə bildir",
 			"eventPreferencesDescription": "Öz şərhləriniz, xatırlatmalarınız və etdiyiniz vəziyyət dəyişiklikləri barədə sizə bildiriş göndərilmir.",
@@ -685,7 +685,7 @@
 			"toastRuleRemovedGeneric": "İş sahəsinin bildiriş qaydası çıxarıldı",
 			"channelNotConnected": "Qoşulmayıb",
 			"channelOff": "Söndürülüb",
-			"channelsDescription": "Bildirişlər həmişə Kaneo-da göstərilir. Onları başqa yerdə də almaq üçün kanal qoşun.",
+			"channelsDescription": "Bildirişlər həmişə SD Work Associates-da göstərilir. Onları başqa yerdə də almaq üçün kanal qoşun.",
 			"channelsTitle": "Kanallar",
 			"configure": "Tənzimlə",
 			"configureChannel": "{{channel}} kanalını tənzimlə",
@@ -701,7 +701,7 @@
 			"eventStatusChangesHint": "Tapşırıqlarınızdan biri başqa sütuna keçdikdə.",
 			"eventTaskAssignmentsHint": "Kimsə sizə tapşırıq təyin etdikdə.",
 			"loadFailed": "Bildiriş parametrlərini yükləmək alınmadı.",
-			"onlyInKaneo": "Yalnız Kaneo-da",
+			"onlyInKaneo": "Yalnız SD Work Associates-da",
 			"optional": "İstəyə bağlı",
 			"projectCount_one": "{{count}} layihə",
 			"projectCount_other": "{{count}} layihə",
@@ -727,14 +727,14 @@
 			"statusSending": "Göndərilir",
 			"stopping": "Dayandırılır...",
 			"stopSending": "Göndərməni dayandır",
-			"stopSendingDescription": "Bu iş sahəsindən gələn bildirişlər yalnız Kaneo-da göstəriləcək.",
+			"stopSendingDescription": "Bu iş sahəsindən gələn bildirişlər yalnız SD Work Associates-da göstəriləcək.",
 			"stopSendingTitle": "{{workspaceName}} üçün göndərmə dayandırılsın?",
 			"workspacesDescription": "Kanallarınızdan hansı iş sahələrinin və layihələrin istifadə edə biləcəyini seçin.",
 			"workspacesTitle": "İş sahələri"
 		},
 		"preferencesPage": {
 			"title": "Tərcihlər",
-			"subtitle": "Kaneo sizin üçün necə görünür və işləyir.",
+			"subtitle": "SD Work Associates sizin üçün necə görünür və işləyir.",
 			"appearanceTitle": "Ümumi",
 			"theme": "Tema",
 			"selectTheme": "Tema seçin",
@@ -779,7 +779,7 @@
 		"developerPage": {
 			"pageTitle": "API açarları",
 			"title": "API açarları",
-			"subtitle": "Skriptlər, CLI və MCP klientləri Kaneo-dan sizin adınızdan istifadə etsin.",
+			"subtitle": "Skriptlər, CLI və MCP klientləri SD Work Associates-dan sizin adınızdan istifadə etsin.",
 			"unnamedKey": "Adsız",
 			"emptyDescription": "CLI, MCP klienti və ya öz skriptlərinizdən istifadə etmək üçün açar yaradın.",
 			"emptyTitle": "Hələ API açarı yoxdur",
@@ -1268,11 +1268,11 @@
 				"removeError": "GitHub inteqrasiyasını çıxarmaq alınmadı",
 				"issuesImported": "Məsələlər uğurla idxal edildi",
 				"importError": "Məsələləri idxal etmək alınmadı",
-				"commentOnEnabled": "Kaneo yeni məsələlərə tapşırıq keçidi olan şərh yazacaq",
+				"commentOnEnabled": "SD Work Associates yeni məsələlərə tapşırıq keçidi olan şərh yazacaq",
 				"commentOnDisabled": "Yeni məsələlərdə tapşırıq keçidi olan şərhlər söndürülüb",
 				"settingsUpdateError": "GitHub inteqrasiyasını yeniləmək alınmadı"
 			},
-			"commentTaskLinkTitle": "Yeni məsələlərə Kaneo keçidi ilə şərh yaz",
+			"commentTaskLinkTitle": "Yeni məsələlərə SD Work Associates keçidi ilə şərh yaz",
 			"commentTaskLinkHint": "GitHub-da olanlar tapşırığa birbaşa keçə bilsin deyə.",
 			"updatePermissions": "İcazələri yenilə",
 			"installGithubApp": "GitHub tətbiqini quraşdır",
@@ -1289,9 +1289,9 @@
 			"linkAccountTitle": "GitHub hesabınızı əlaqələndirin",
 			"linked": "Əlaqələndirilib",
 			"linkGithub": "GitHub-ı əlaqələndir",
-			"verifyMissingPermissions": "Kaneo GitHub tətbiqində icazələr çatışmır: {{list}}.",
-			"verifyNotInstalled": "Kaneo GitHub tətbiqi bu repozitoriyada quraşdırılmayıb.",
-			"verifyReady": "Kaneo GitHub tətbiqi lazımi icazələrlə quraşdırılıb.",
+			"verifyMissingPermissions": "SD Work Associates GitHub tətbiqində icazələr çatışmır: {{list}}.",
+			"verifyNotInstalled": "SD Work Associates GitHub tətbiqi bu repozitoriyada quraşdırılmayıb.",
+			"verifyReady": "SD Work Associates GitHub tətbiqi lazımi icazələrlə quraşdırılıb.",
 			"workflowHint": "Birləşdirmə sorğuları açıldıqda və ya birləşdirildikdə tapşırıqların köçürülməsini burada tənzimləyin:",
 			"workflowLink": "İş axını"
 		},
@@ -1309,13 +1309,13 @@
 				"removeError": "Gitea inteqrasiyasını çıxarmaq alınmadı",
 				"issuesImported": "Məsələlər uğurla idxal edildi",
 				"importError": "Məsələləri idxal etmək alınmadı",
-				"commentOnEnabled": "Kaneo yeni məsələlərə tapşırıq keçidi olan şərh yazacaq",
+				"commentOnEnabled": "SD Work Associates yeni məsələlərə tapşırıq keçidi olan şərh yazacaq",
 				"commentOnDisabled": "Yeni məsələlərdə tapşırıq keçidi olan şərhlər söndürülüb",
 				"settingsUpdateError": "Gitea inteqrasiyasını yeniləmək alınmadı"
 			},
-			"commentTaskLinkTitle": "Yeni məsələlərə Kaneo keçidi ilə şərh yaz",
+			"commentTaskLinkTitle": "Yeni məsələlərə SD Work Associates keçidi ilə şərh yaz",
 			"commentTaskLinkHint": "Gitea-da olanlar tapşırığa birbaşa keçə bilsin deyə.",
-			"webhookHint": "Dəyişikliklərin Kaneo-ya qayıtması üçün bu Webhook-u repozitoriya parametrlərində əlavə edin.",
+			"webhookHint": "Dəyişikliklərin SD Work Associates-ya qayıtması üçün bu Webhook-u repozitoriya parametrlərində əlavə edin.",
 			"baseUrlLabel": "Gitea URL-i",
 			"tokenLabel": "Şəxsi giriş nişanı",
 			"tokenPlaceholder": "Giriş nişanını yapışdırın",
@@ -1398,10 +1398,10 @@
 			},
 			"webhookLabel": "Son nöqtənin URL-i",
 			"webhookPlaceholder": "https://example.com/webhooks/kaneo",
-			"webhookHint": "Kaneo hər aktiv hadisə üçün JSON məlumatları ilə POST sorğuları göndərir.",
+			"webhookHint": "SD Work Associates hər aktiv hadisə üçün JSON məlumatları ilə POST sorğuları göndərir.",
 			"secretLabel": "İmzalama sirri",
 			"secretPlaceholder": "Ortaq sirr",
-			"secretHint": "Kaneo hər sorğunu onunla imzalayır və heş dəyərini X-Kaneo-Signature başlığında göndərir.",
+			"secretHint": "SD Work Associates hər sorğunu onunla imzalayır və heş dəyərini X-Kaneo-Signature başlığında göndərir.",
 			"secretHintConfigured": "Cari sirr: {{secret}}. Əvəzləmək üçün yenisini yapışdırın.",
 			"eventsTitle": "Bu hallarda göndər",
 			"events": {
@@ -1421,7 +1421,7 @@
 			"reminderLeadTimeLabel": "Son tarixdən neçə saat əvvəl",
 			"connect": "Webhook-a qoşul",
 			"activeTitle": "Hadisələr göndərilir",
-			"disconnectDescription": "Kaneo hadisələri göndərməyi dayandırır və yadda saxlanılmış son nöqtəni və sirri silir.",
+			"disconnectDescription": "SD Work Associates hadisələri göndərməyi dayandırır və yadda saxlanılmış son nöqtəni və sirri silir.",
 			"disconnectTitle": "Webhook ayrılsın?",
 			"reminderLeadTimeAfter": "saat əvvəl göndər",
 			"reminderLeadTimeBefore": "Xatırlatmaları tapşırığın son tarixindən"
@@ -1457,7 +1457,7 @@
 		},
 		"repositoryBrowser": {
 			"title": "Repozitoriya seçin",
-			"description": "Kaneo GitHub tətbiqinin gördüyü repozitoriyalar.",
+			"description": "SD Work Associates GitHub tətbiqinin gördüyü repozitoriyalar.",
 			"searchPlaceholder": "Repozitoriyaları axtar",
 			"loadError": "Repozitoriyaları yükləmək alınmadı.",
 			"tryAgain": "Yenidən cəhd et",
@@ -1677,7 +1677,7 @@
 				"active": "Active",
 				"deactivated": "Deactivated"
 			},
-			"subtitle": "Bu Kaneo serverində hesabı olan hər kəs.",
+			"subtitle": "Bu SD Work Associates serverində hesabı olan hər kəs.",
 			"title": "İstifadəçilər",
 			"toast": {
 				"actionError": "Failed to update user status",
@@ -1774,7 +1774,7 @@
 			"sectionTitle": "Giriş",
 			"submit": "Parolu dəyiş",
 			"submitting": "Dəyişdirilir...",
-			"subtitle": "Kaneo-ya necə daxil olursunuz.",
+			"subtitle": "SD Work Associates-ya necə daxil olursunuz.",
 			"title": "Security",
 			"updateError": "Failed to update password.",
 			"updateSuccess": "Password updated.",
@@ -1803,14 +1803,14 @@
 			"browseModalHint": "Giriş nişanınızın üzv olduğu layihələr.",
 			"browseNeedsCredentials": "Baxmaq üçün GitLab URL-ini və giriş nişanını daxil edin.",
 			"commentTaskLinkHint": "GitLab-da olanlar tapşırığa birbaşa keçə bilsin deyə.",
-			"commentTaskLinkTitle": "Comment a Kaneo link on issues opened in GitLab",
+			"commentTaskLinkTitle": "Comment a SD Work Associates link on issues opened in GitLab",
 			"importSectionHint": "Açıq məsələləri və birləşdirmə sorğularını tapşırıq kimi idxal edin.",
 			"openInGitlab": "Open {{project}} in GitLab",
 			"projectPathLabel": "Project path",
 			"searchProjects": "Layihələri axtar",
 			"toast": {
 				"commentOnDisabled": "Task link comments on issues opened in GitLab are turned off",
-				"commentOnEnabled": "Kaneo will comment with a task link on issues opened in GitLab",
+				"commentOnEnabled": "SD Work Associates will comment with a task link on issues opened in GitLab",
 				"importError": "Failed to import issues",
 				"issuesImported": "Issues imported successfully",
 				"removed": "GitLab integration removed",
@@ -1832,7 +1832,7 @@
 				"baseUrlRequired": "GitLab base URL is required",
 				"pathInvalid": "Enter the full path, e.g. group/project"
 			},
-			"webhookHint": "Dəyişikliklərin Kaneo-ya qayıtması üçün bu Webhook-u layihə parametrlərində əlavə edin.",
+			"webhookHint": "Dəyişikliklərin SD Work Associates-ya qayıtması üçün bu Webhook-u layihə parametrlərində əlavə edin.",
 			"loadProjectsError": "Layihələri yükləmək alınmadı.",
 			"importPermissionHint": "Importing requires permission to create and update tasks.",
 			"browseEmpty": "Bu giriş nişanı heç bir layihənin üzvü deyil.",
@@ -1889,7 +1889,7 @@
 			"currentPlan": {
 				"title": "Current plan"
 			},
-			"disabled": "Billing isn't enabled on this instance. Self-hosted Kaneo includes every feature, free forever.",
+			"disabled": "Billing isn't enabled on this instance. Self-hosted SD Work Associates includes every feature, free forever.",
 			"expiredCallout": {
 				"action": "Choose a plan",
 				"adminDescription": "You can still view everything, but creating and editing are paused until you choose a plan. Nothing has been deleted.",
@@ -1907,7 +1907,7 @@
 			},
 			"foundingFree": {
 				"badge": "Free",
-				"description": "This workspace has free access to Kaneo Cloud as an early supporter. Thank you for being here from the start.",
+				"description": "This workspace has free access to SD Work Associates Cloud as an early supporter. Thank you for being here from the start.",
 				"title": "Founding Free"
 			},
 			"interval": {
@@ -1991,8 +1991,8 @@
 			"filtered": "Only matching labels",
 			"impact": "{{matching}} of {{total}} tasks match. {{create}} tasks will be exported, {{pause}} links will pause, and {{review}} links need review to resume.",
 			"impactTitle": "What will change",
-			"incoming": "Repository → Kaneo",
-			"incomingHint": "Choose which issues can be imported or create tasks. Use exact repository label names. Existing links follow the Kaneo task rule.",
+			"incoming": "Repository → SD Work Associates",
+			"incomingHint": "Choose which issues can be imported or create tasks. Use exact repository label names. Existing links follow the SD Work Associates task rule.",
 			"loadError": "Sync rules could not be loaded.",
 			"loading": "Loading sync rules…",
 			"matchLabels": "Label matching",
@@ -2002,8 +2002,8 @@
 			"noDescription": "No description",
 			"noLabels": "Create workspace labels before configuring a task filter.",
 			"open": "Open",
-			"outgoing": "Kaneo → repository",
-			"outgoingHint": "Choose which Kaneo tasks can sync. Losing a matching label pauses both directions for an existing task.",
+			"outgoing": "SD Work Associates → repository",
+			"outgoingHint": "Choose which SD Work Associates tasks can sync. Losing a matching label pauses both directions for an existing task.",
 			"paused": "Sync paused",
 			"pausedHint": "Records and links are preserved. Tasks that match again need review before syncing resumes.",
 			"preserveHint": "Pausing keeps both records and their link. Resuming requires a comparison; historical comments are never replayed.",
@@ -2025,7 +2025,7 @@
 			"sharedHint": "These rules apply to everyone using this project. Hiding advanced settings does not disable them.",
 			"title": "Nə sinxronlaşdırılır",
 			"unavailableLabel": "Unavailable label",
-			"useKaneo": "Keep Kaneo values",
+			"useKaneo": "Keep SD Work Associates values",
 			"useRepository": "Keep repository values",
 			"exportPending": "Export matching tasks",
 			"inactiveHint": "This integration is paused. No tasks will be exported until it is reactivated.",
@@ -2038,10 +2038,10 @@
 			"issuesLabelled": "Etiketi olan məsələlər:",
 			"joinAnd": "və",
 			"joinOr": "və ya",
-			"kaneoToProvider": "Kaneo-dan {{provider}} xidmətinə",
+			"kaneoToProvider": "SD Work Associates-dan {{provider}} xidmətinə",
 			"pausedSummary_one": "{{count}} tapşırığın sinxronlaşdırılması dayandı, çünki o artıq sinxronlaşdırma qaydalarına uyğun gəlmir.",
 			"pausedSummary_other": "{{count}} tapşırığın sinxronlaşdırılması dayandı, çünki onlar artıq sinxronlaşdırma qaydalarına uyğun gəlmir.",
-			"providerToKaneo": "{{provider}} xidmətindən Kaneo-ya",
+			"providerToKaneo": "{{provider}} xidmətindən SD Work Associates-ya",
 			"reviewPaused": "Nəzərdən keçir",
 			"tasksLabelled": "Etiketi olan tapşırıqlar:"
 		},
@@ -2127,7 +2127,7 @@
 			"searchCount_other": "{{count}} matching workspaces",
 			"searchLabel": "Search workspaces",
 			"searchPlaceholder": "Ad və ya slug ilə axtar",
-			"subtitle": "Bu Kaneo serverindəki bütün iş sahələri, üzv olmadıqlarınız da daxil olmaqla.",
+			"subtitle": "Bu SD Work Associates serverindəki bütün iş sahələri, üzv olmadıqlarınız da daxil olmaqla.",
 			"title": "İş sahələri",
 			"toast": {
 				"added": "Member added",
@@ -2162,7 +2162,7 @@
 				"cancel": "Cancel",
 				"continue": "Continue",
 				"hideSecret": "Hide {{field}}",
-				"sectionDescription": "Kaneo only reads from {{source}}. The key is used for this import and never stored.",
+				"sectionDescription": "SD Work Associates only reads from {{source}}. The key is used for this import and never stored.",
 				"sectionTitle": "Connect",
 				"showSecret": "Show {{field}}",
 				"title": "Import from {{source}}",
@@ -2191,11 +2191,11 @@
 				"title": "Recent imports"
 			},
 			"kaneo": {
-				"apiKeyDescription": "In that Kaneo, open Settings, then API Keys.",
+				"apiKeyDescription": "In that SD Work Associates, open Settings, then API Keys.",
 				"apiKeyLabel": "API key",
 				"apiKeyPlaceholder": "Paste API key",
 				"urlDescription": "The instance you are moving from.",
-				"urlLabel": "Kaneo URL"
+				"urlLabel": "SD Work Associates URL"
 			},
 			"linear": {
 				"apiKeyDescription": "Read access is enough. You can revoke it after the import.",
@@ -2282,9 +2282,9 @@
 				"connectTo": "Connect {{source}}",
 				"description": "Pick the tool you are moving from. Each project you choose becomes a new project here.",
 				"kaneo": {
-					"description": "Move projects between Kaneo Cloud and a self-hosted instance.",
+					"description": "Move projects between SD Work Associates Cloud and a self-hosted instance.",
 					"intro": "Projects from every workspace the key can see. Each one you pick is copied here.",
-					"pickerName": "Another Kaneo"
+					"pickerName": "Another SD Work Associates"
 				},
 				"linear": {
 					"description": "Teams, issues, labels, sub-issues and comments. Paste a personal API key.",
@@ -2322,7 +2322,7 @@
 				"import": "Import",
 				"label": "Import steps"
 			},
-			"subtitle": "Bring your projects from another tool into {{workspace}}. Kaneo only reads from the source.",
+			"subtitle": "Bring your projects from another tool into {{workspace}}. SD Work Associates only reads from the source.",
 			"title": "Import",
 			"toast": {
 				"failed": "Import from {{source}} failed",
@@ -2335,7 +2335,7 @@
 				"apiKeyPlaceholder": "Paste API key",
 				"authorizeButton": "Authorize on Trello",
 				"authorizeDescription": "Opens Trello in a new tab. Read only, expires after a day.",
-				"authorizeLabel": "Authorize Kaneo",
+				"authorizeLabel": "Authorize SD Work Associates",
 				"authorizeNeedsKey": "Enter the API key first. Read only, expires after a day.",
 				"tokenDescription": "Click Allow on Trello, then paste the token it shows you.",
 				"tokenLabel": "Token",
@@ -2423,7 +2423,7 @@
 			"channelLabel": "Kanal",
 			"channelPlaceholder": "#team-updates",
 			"disconnect": "Ayır",
-			"disconnectDescription": "Kaneo {{provider}} xidmətinə paylaşımı dayandırır və yadda saxlanılmış parametrləri silir.",
+			"disconnectDescription": "SD Work Associates {{provider}} xidmətinə paylaşımı dayandırır və yadda saxlanılmış parametrləri silir.",
 			"disconnecting": "Ayrılır…",
 			"disconnectTitle": "{{provider}} ayrılsın?",
 			"events": {
@@ -2646,7 +2646,7 @@
 				"storageOk": "Bucket reachable",
 				"storageWarning": "Can't check the bucket with these credentials ({{code}}).",
 				"title": "Instance",
-				"version": "Kaneo version",
+				"version": "SD Work Associates version",
 				"versionUnknown": "Unknown"
 			},
 			"integrations": {
@@ -3830,13 +3830,13 @@
 	"invitations": {
 		"email": {
 			"subject": "{{inviterName}} sizi {{instanceName}}-da {{workspaceName}} iş sahəsinə qoşulmağa dəvət etdi",
-			"preview": "Kaneo-da {{workspaceName}} iş sahəsinə dəvət almısınız",
+			"preview": "SD Work Associates-da {{workspaceName}} iş sahəsinə dəvət almısınız",
 			"title": "{{workspaceName}} iş sahəsinə qoşul",
-			"subtitle": "{{inviterName}} ({{inviterEmail}}) sizi Kaneo-da əməkdaşlığa dəvət etdi.",
+			"subtitle": "{{inviterName}} ({{inviterEmail}}) sizi SD Work Associates-da əməkdaşlığa dəvət etdi.",
 			"cta": "Dəvəti qəbul et",
 			"sameEmail": "Dəvəti bu məktubu aldığınız e-poçt ünvanı ilə qəbul edə bilərsiniz.",
 			"ignore": "Bu məktubu gözləmirdinizsə, ona məhəl qoymaya bilərsiniz.",
-			"footer": "Kaneo iş sahəsi dəvəti",
+			"footer": "SD Work Associates iş sahəsi dəvəti",
 			"details": {
 				"title": "Dəvət təfərrüatları",
 				"sentTo": "Göndərildi",
@@ -4107,64 +4107,64 @@
 	},
 	"press": {
 		"title": "Press kit",
-		"headline": "Kaneo press kit",
-		"intro": "Kaneo logos and product screenshots for articles, videos, and other media.",
-		"description": "Kaneo press resources: product information, logos, screenshots, and contact details for journalists and creators.",
+		"headline": "SD Work Associates press kit",
+		"intro": "SD Work Associates logos and product screenshots for articles, videos, and other media.",
+		"description": "SD Work Associates press resources: product information, logos, screenshots, and contact details for journalists and creators.",
 		"downloadKit": "Download all assets",
-		"boilerplateTitle": "About Kaneo",
-		"boilerplate": "Kaneo is an open-source project management platform created by Andrej Acevski. Teams can organize tasks in board and list views, assign work, set priorities and due dates, and connect GitHub. Kaneo is available under the MIT license for self-hosting, or as a managed service through Kaneo Cloud.",
+		"boilerplateTitle": "About SD Work Associates",
+		"boilerplate": "SD Work Associates is an open-source project management platform created by Andrej Acevski. Teams can organize tasks in board and list views, assign work, set priorities and due dates, and connect GitHub. SD Work Associates is available under the MIT license for self-hosting, or as a managed service through SD Work Associates Cloud.",
 		"logosTitle": "Logos",
 		"darkLogo": "Dark wordmark",
-		"darkLogoAlt": "Dark Kaneo logo on a light background",
+		"darkLogoAlt": "Dark SD Work Associates logo on a light background",
 		"darkLogoDetail": "SVG",
 		"lightLogo": "Light wordmark",
-		"lightLogoAlt": "Light Kaneo logo on a dark background",
+		"lightLogoAlt": "Light SD Work Associates logo on a dark background",
 		"lightLogoDetail": "SVG",
 		"icon": "App icon",
-		"iconAlt": "Kaneo app icon",
+		"iconAlt": "SD Work Associates app icon",
 		"iconDetail": "PNG, 512 × 512",
 		"download": "Download",
 		"screenshotsTitle": "Screenshots",
 		"lightScreenshot": "Board (light)",
-		"lightScreenshotAlt": "Kaneo board in light theme, with task cards arranged by status",
+		"lightScreenshotAlt": "SD Work Associates board in light theme, with task cards arranged by status",
 		"darkScreenshot": "Board (dark)",
-		"darkScreenshotAlt": "Kaneo board in dark theme, with task cards arranged by status",
+		"darkScreenshotAlt": "SD Work Associates board in dark theme, with task cards arranged by status",
 		"contactTitle": "Press enquiries",
-		"contactBody": "Contact the Kaneo team for product questions, interviews, or additional materials.",
+		"contactBody": "Contact the SD Work Associates team for product questions, interviews, or additional materials.",
 		"usageContrast": "Choose the light wordmark for dark backgrounds and the dark wordmark for light backgrounds.",
 		"usageProportions": "Keep the original proportions and colours, without stretching or adding effects.",
 		"usageSpace": "Leave enough space around the logo to keep it clear and readable.",
 		"darkListScreenshot": "List (dark)",
-		"darkListScreenshotAlt": "Kaneo task list in dark theme, grouped by status with assignees, priorities, labels, and due dates",
+		"darkListScreenshotAlt": "SD Work Associates task list in dark theme, grouped by status with assignees, priorities, labels, and due dates",
 		"darkTaskScreenshot": "Task details (dark)",
-		"darkTaskScreenshotAlt": "Kaneo task details in dark theme, with a description, checklist, team comment, and task properties",
+		"darkTaskScreenshotAlt": "SD Work Associates task details in dark theme, with a description, checklist, team comment, and task properties",
 		"darkTimelineScreenshot": "Timeline (dark)",
-		"darkTimelineScreenshotAlt": "Kaneo Gantt timeline in dark theme, showing scheduled tasks and their durations",
+		"darkTimelineScreenshotAlt": "SD Work Associates Gantt timeline in dark theme, showing scheduled tasks and their durations",
 		"lightListScreenshot": "List (light)",
-		"lightListScreenshotAlt": "Kaneo task list in light theme, grouped by status with assignees, priorities, labels, and due dates",
+		"lightListScreenshotAlt": "SD Work Associates task list in light theme, grouped by status with assignees, priorities, labels, and due dates",
 		"lightTaskScreenshot": "Task details (light)",
-		"lightTaskScreenshotAlt": "Kaneo task details in light theme, with a description, checklist, team comment, and task properties",
+		"lightTaskScreenshotAlt": "SD Work Associates task details in light theme, with a description, checklist, team comment, and task properties",
 		"lightTimelineScreenshot": "Timeline (light)",
-		"lightTimelineScreenshotAlt": "Kaneo Gantt timeline in light theme, showing scheduled tasks and their durations"
+		"lightTimelineScreenshotAlt": "SD Work Associates Gantt timeline in light theme, showing scheduled tasks and their durations"
 	},
 	"landing": {
 		"sponsors": {
 			"ciSponsor": "Tərəfdaşlar"
 		},
 		"founder": {
-			"title": "Why Kaneo exists",
-			"intro": "I'm Andrej, and I created Kaneo because I was tired of project management tools that got in the way more than they helped. After years of using bloated, overcomplicated platforms that distracted from actual work, I knew there had to be a better way.",
+			"title": "Why SD Work Associates exists",
+			"intro": "I'm Andrej, and I created SD Work Associates because I was tired of project management tools that got in the way more than they helped. After years of using bloated, overcomplicated platforms that distracted from actual work, I knew there had to be a better way.",
 			"problem": "The problem wasn't that these tools lacked features - it was that they had too many. Every notification, every unnecessary button, every complex workflow was pulling my team away from what mattered: building great products.",
-			"principle": "I believe the best tools are invisible. They should amplify your team's natural workflow, not force you to adapt to theirs. Kaneo is built on the principle that less is more - every feature exists because it solves a real problem, not because it looks impressive in a demo."
+			"principle": "I believe the best tools are invisible. They should amplify your team's natural workflow, not force you to adapt to theirs. SD Work Associates is built on the principle that less is more - every feature exists because it solves a real problem, not because it looks impressive in a demo."
 		},
 		"hero": {
-			"cloudCta": "Try Kaneo Cloud",
+			"cloudCta": "Try SD Work Associates Cloud",
 			"trialNote": "14-day cloud trial. No credit card required.",
 			"github": "GitHub",
 			"productHunt": "Product Hunt",
 			"title": "Project management",
 			"titleAccent": "that doesn't become the project.",
-			"description": "Open-source project management with boards, Gantt charts, and GitHub integration. Self-host for free with SSO included, or let Kaneo Cloud handle the hosting.",
+			"description": "Open-source project management with boards, Gantt charts, and GitHub integration. Self-host for free with SSO included, or let SD Work Associates Cloud handle the hosting.",
 			"pricingCta": "See pricing"
 		},
 		"navigation": {
@@ -4179,12 +4179,12 @@
 			"community": "İcma",
 			"menu": "Menu",
 			"closeMenu": "Close menu",
-			"home": "Kaneo home",
+			"home": "SD Work Associates home",
 			"signIn": "Sign In",
 			"getStarted": "Get Started"
 		},
 		"showcase": {
-			"label": "Kaneo product views",
+			"label": "SD Work Associates product views",
 			"controls": "Choose a product view",
 			"play": "Play product views",
 			"pause": "Pause product views",
@@ -4207,7 +4207,7 @@
 			"hosting": {
 				"title": "Run it on your own server.",
 				"description": "Deploy with Docker and keep your workspace on infrastructure you control.",
-				"link": "Self-host Kaneo"
+				"link": "Self-host SD Work Associates"
 			},
 			"source": {
 				"title": "The code is open, too.",
@@ -4215,8 +4215,8 @@
 				"link": "View the source"
 			},
 			"preview": {
-				"taskAlt": "Interactive Kaneo task and subtask preview.",
-				"githubAlt": "Interactive preview of a GitHub merge updating a Kaneo task.",
+				"taskAlt": "Interactive SD Work Associates task and subtask preview.",
+				"githubAlt": "Interactive preview of a GitHub merge updating a SD Work Associates task.",
 				"taskTitle": "Publish the new homepage",
 				"taskDescription": "Update the copy and check the layout before the next release.",
 				"checklistDone": "Review the copy",
@@ -4226,7 +4226,7 @@
 				"date": "Oct 12",
 				"design": "design",
 				"done": "Done",
-				"relationsAlt": "Interactive Kaneo task dependencies preview.",
+				"relationsAlt": "Interactive SD Work Associates task dependencies preview.",
 				"inReview": "In Review",
 				"trySubtasks": "Try checking off a subtask.",
 				"tryGithub": "Preview a merge to see the task update.",
@@ -4248,13 +4248,13 @@
 			}
 		},
 		"seo": {
-			"title": "Kaneo — Open-source, self-hosted project management",
-			"description": "Open-source project management with boards, Gantt charts, and GitHub integration. Self-host for free with SSO included, or use Kaneo Cloud."
+			"title": "SD Work Associates — Open-source, self-hosted project management",
+			"description": "Open-source project management with boards, Gantt charts, and GitHub integration. Self-host for free with SSO included, or use SD Work Associates Cloud."
 		},
 		"resources": {
 			"eyebrow": "Make it your own",
 			"title": "A clear path from trying it to using it.",
-			"description": "Set up your server, connect your tools, or compare Kaneo with your current tracker.",
+			"description": "Set up your server, connect your tools, or compare SD Work Associates with your current tracker.",
 			"sso": {
 				"title": "Bring your own identity provider",
 				"description": "Configure OIDC single sign-on in the free self-hosted build."
@@ -4264,36 +4264,36 @@
 				"description": "Use MCP to work with tasks and projects through an AI client."
 			},
 			"linear": {
-				"title": "Compare Kaneo and Linear",
+				"title": "Compare SD Work Associates and Linear",
 				"description": "See the differences in hosting, licensing, and workflow."
 			},
 			"startups": {
-				"description": "What a startup needs from a tracker, and what Kaneo Cloud costs as you hire.",
+				"description": "What a startup needs from a tracker, and what SD Work Associates Cloud costs as you hire.",
 				"title": "Project management for startups"
 			}
 		},
 		"product": {
 			"title": "Before you get started",
 			"description": "The practical details about hosting, planning, and connecting your team.",
-			"overview": "Kaneo is an open-source, MIT-licensed project management platform with boards, backlog, Gantt and calendar views, custom fields, time tracking, and GitHub integration. Self-host it on your own infrastructure or use Kaneo Cloud.",
+			"overview": "SD Work Associates is an open-source, MIT-licensed project management platform with boards, backlog, Gantt and calendar views, custom fields, time tracking, and GitHub integration. Self-host it on your own infrastructure or use SD Work Associates Cloud.",
 			"hosting": {
-				"question": "Is Kaneo free to self-host?",
-				"answer": "Yes. Kaneo is MIT licensed and free to self-host, with single sign-on included. Run the application alongside PostgreSQL using Docker Compose, or deploy with the official Helm chart. You manage infrastructure, updates, and backups.",
+				"question": "Is SD Work Associates free to self-host?",
+				"answer": "Yes. SD Work Associates is MIT licensed and free to self-host, with single sign-on included. Run the application alongside PostgreSQL using Docker Compose, or deploy with the official Helm chart. You manage infrastructure, updates, and backups.",
 				"link": "Read the installation guide"
 			},
 			"planning": {
-				"question": "Does Kaneo have Gantt charts?",
-				"answer": "Yes. Kaneo includes Gantt and calendar views alongside boards, lists, and backlog planning. Use task start dates and due dates to plan work on a timeline. Budgeting, baseline comparisons, and sprint burndown reports are outside its current scope.",
+				"question": "Does SD Work Associates have Gantt charts?",
+				"answer": "Yes. SD Work Associates includes Gantt and calendar views alongside boards, lists, and backlog planning. Use task start dates and due dates to plan work on a timeline. Budgeting, baseline comparisons, and sprint burndown reports are outside its current scope.",
 				"link": "Compare planning features"
 			},
 			"sso": {
 				"question": "Is single sign-on included?",
-				"answer": "Yes. The free self-hosted build supports Google, GitHub, Discord, and custom OAuth/OIDC providers. Configure your provider on your instance without purchasing a separate Kaneo edition.",
+				"answer": "Yes. The free self-hosted build supports Google, GitHub, Discord, and custom OAuth/OIDC providers. Configure your provider on your instance without purchasing a separate SD Work Associates edition.",
 				"link": "Configure OIDC"
 			},
 			"agents": {
-				"question": "Can AI clients work with Kaneo?",
-				"answer": "Yes. Kaneo provides an MCP server through the @kaneo/mcp package and an HTTP endpoint. Compatible AI clients can read and update tasks using an API key tied to a user, subject to workspace permissions.",
+				"question": "Can AI clients work with SD Work Associates?",
+				"answer": "Yes. SD Work Associates provides an MCP server through the @kaneo/mcp package and an HTTP endpoint. Compatible AI clients can read and update tasks using an API key tied to a user, subject to workspace permissions.",
 				"link": "Read the MCP guide"
 			}
 		},
@@ -4304,9 +4304,9 @@
 		},
 		"selfHostingGuide": {
 			"summary": "What self-hosting involves, with links to the maintained Docker Compose configuration and installation steps.",
-			"answer": "To self-host Kaneo, run the application and PostgreSQL with Docker Compose, configure your public URL and secrets, and put a TLS reverse proxy in front. The installation guide specifies at least 2 GB of RAM and 10 GB of disk space. Plan for ongoing updates, database backups, and storage for uploaded files.",
+			"answer": "To self-host SD Work Associates, run the application and PostgreSQL with Docker Compose, configure your public URL and secrets, and put a TLS reverse proxy in front. The installation guide specifies at least 2 GB of RAM and 10 GB of disk space. Plan for ongoing updates, database backups, and storage for uploaded files.",
 			"requirements": "The documented minimum is 2 GB of RAM and 10 GB of disk space, with Docker 20.10 or newer and Docker Compose V2. Allow more capacity for your workload, database growth, and uploaded files.",
-			"compose": "Use the maintained compose.yml in the Docker Compose guide. It defines PostgreSQL, a persistent database volume, the Kaneo application, and health checks. Configure the environment file before starting the services; for production, pin an image version so updates are deliberate.",
+			"compose": "Use the maintained compose.yml in the Docker Compose guide. It defines PostgreSQL, a persistent database volume, the SD Work Associates application, and health checks. Configure the environment file before starting the services; for production, pin an image version so updates are deliberate.",
 			"backups": "Back up both PostgreSQL and any object storage used for uploads. Choose a schedule based on how much work your team can afford to lose, store copies off the application server, and test restoring them before you need them.",
 			"worth": "Self-hosting makes sense when you need control over infrastructure and data, and someone can own maintenance. Include server capacity, storage, backups, and that maintenance time when comparing costs with a managed service.",
 			"minimum": "The installation guide specifies Docker 20.10 or newer, Docker Compose V2, at least 2 GB of RAM, and 10 GB of disk space. The Compose setup includes PostgreSQL. Redis is optional for a single API instance.",
@@ -4331,7 +4331,7 @@
 				"delivery": "Çatdırılma və hadisələr",
 				"deliveryHint": "E-poçt, ntfy, Gotify, vebhuklar",
 				"invitations": "Dəvətlər",
-				"permissionDenied": "Əvvəlcə sistem ayarlarında Kaneo bildirişlərinə icazə verin.",
+				"permissionDenied": "Əvvəlcə sistem ayarlarında SD Work Associates bildirişlərinə icazə verin.",
 				"phone": "Telefon bildirişləri",
 				"phoneHint": "Təxminən hər 15 dəqiqədən bir yoxlanılır",
 				"title": "Bildirişlər"
@@ -4379,7 +4379,7 @@
 		},
 		"background": {
 			"channelDescription": "İş sahələrinizdəki təyinatlar, şərhlər və adınızın çəkildiyi bildirişlər",
-			"channelName": "Kaneo fəaliyyəti",
+			"channelName": "SD Work Associates fəaliyyəti",
 			"summary_one": "Daha {{count}} yeni bildiriş",
 			"summary_other": "Daha {{count}} yeni bildiriş"
 		},
@@ -4470,10 +4470,10 @@
 			"apiKeyRejected": "Bu API açarı rədd edildi.",
 			"deviceFailed": "Cihazla giriş alınmadı (HTTP {{status}}).",
 			"forbidden": "Bunu etmək üçün icazəniz yoxdur.",
-			"noInstance": "{{url}} ünvanında Kaneo instansiyası tapılmadı (HTTP {{status}}).",
+			"noInstance": "{{url}} ünvanında SD Work Associates instansiyası tapılmadı (HTTP {{status}}).",
 			"noSession": "Server sessiya qaytarmadı. Brauzerdən daxil olmağa çalışın.",
 			"notFound": "Tapılmadı.",
-			"notKaneo": "{{url}} Kaneo serverinə bənzəmir.",
+			"notKaneo": "{{url}} SD Work Associates serverinə bənzəmir.",
 			"notSignedIn": "Daxil olmamısınız",
 			"requestFailed": "Sorğu alınmadı ({{status}}).",
 			"serverProblem": "Serverdə problem yarandı ({{status}}).",
@@ -4702,7 +4702,7 @@
 				"webhook": "Vebhuk",
 				"webhookHint": "Bildirişləri URL-yə POST ilə göndər"
 			},
-			"description": "Kaneo sizə haradan və nə barədə xəbər versin.",
+			"description": "SD Work Associates sizə haradan və nə barədə xəbər versin.",
 			"events": {
 				"assignments": "Təyinatlar",
 				"assignmentsHint": "Sizə tapşırıq təyin ediləndə",
@@ -4874,7 +4874,7 @@
 			"browserHint": "GitHub, Google, Discord və ya SSO",
 			"captcha": "Bu server bu addımda brauzer yoxlaması tələb edir. “Brauzerdə davam et” seçin.",
 			"change": "Dəyiş",
-			"cloud": "Kaneo Cloud",
+			"cloud": "SD Work Associates Cloud",
 			"code": {
 				"checkEmail": "E-poçtunuzu yoxlayın",
 				"didntGet": "Almadınız?",
@@ -4896,7 +4896,7 @@
 				"expired": "Giriş kodunun vaxtı bitib. Yenisini almaq üçün yenidən başlayın.",
 				"gettingCode": "Kod alınır…",
 				"linkCopied": "Keçid kopyalandı",
-				"message": "Bu cihazı Kaneo saytından təsdiqləyin. GitHub, Google, Discord və SSO orada işləyir.",
+				"message": "Bu cihazı SD Work Associates saytından təsdiqləyin. GitHub, Google, Discord və SSO orada işləyir.",
 				"openBrowser": "Brauzeri aç",
 				"openFailed": "Brauzeri açmaq alınmadı. Keçidi kopyalayın.",
 				"tryAgain": "Yenidən cəhd et",
@@ -4906,7 +4906,7 @@
 			"email": "E-poçt",
 			"emailCode": "E-poçtla giriş kodu göndər",
 			"invalidClient": "Bu server cihazla girişə icazə vermir. İnzibatçıdan DEVICE_AUTH_CLIENT_IDS parametrinə “kaneo-cli” əlavə etməsini istəyin və ya parol və ya API açarı ilə daxil olun.",
-			"newToKaneo": "Kaneo-da yenisiniz?",
+			"newToKaneo": "SD Work Associates-da yenisiniz?",
 			"noPassword": "Parol lazım deyil",
 			"or": "və ya",
 			"password": "Parol",
@@ -4914,13 +4914,13 @@
 			"selfHosted": "Öz serverinizdə",
 			"sendTo": "{{email}} ünvanına göndər",
 			"serverAddress": "Server ünvanı",
-			"serverAddressHint": "Kaneo-nu açdığınız ünvan. TLS olmayan serverlər üçün http:// istifadə edin. API başqa hostda işləyirsə, API ünvanını daxil edin.",
+			"serverAddressHint": "SD Work Associates-nu açdığınız ünvan. TLS olmayan serverlər üçün http:// istifadə edin. API başqa hostda işləyirsə, API ünvanını daxil edin.",
 			"signIn": "Daxil ol",
 			"signUp": {
 				"name": "Ad",
 				"passwordHint": "Ən azı 8 simvol"
 			},
-			"tagline": "Sadə layihə idarəetməsi. Kaneo Cloud-a və ya öz instansiyanıza qoşulun.",
+			"tagline": "Sadə layihə idarəetməsi. SD Work Associates Cloud-a və ya öz instansiyanıza qoşulun.",
 			"togglePassword": "Parolun görünməsini dəyiş",
 			"useApiKey": "API açarından istifadə et"
 		},
@@ -5140,7 +5140,7 @@
 			"title": "İş sahələri"
 		},
 		"permissions": {
-			"photos": "Kaneo şəkillərinizdən tapşırıqlara və şərhlərə şəkil əlavə etmək, həmçinin profil şəkliniz üçün istifadə edir."
+			"photos": "SD Work Associates şəkillərinizdən tapşırıqlara və şərhlərə şəkil əlavə etmək, həmçinin profil şəkliniz üçün istifadə edir."
 		}
 	}
 }
