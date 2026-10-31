@@ -1,5 +1,5 @@
 export function VersionDisplay() {
-  const sdVersion = "1.2";
+  const sdVersion = "1.5";
 
   return (
     <div className="flex items-center justify-center px-2 py-1.5">
