@@ -3,7 +3,9 @@ import {
   CircleCheck,
   House,
   Inbox,
+  GraduationCap,
   LayoutGrid,
+  Lightbulb,
   type LucideIcon,
   Mail,
   Search,
@@ -73,6 +75,8 @@ export function NavMain() {
     },
     { title: "SD Home", icon: Sun, url: `${homeUrl}/sd-home` },
     { title: "SD Tools", icon: LayoutGrid, url: `${homeUrl}/sd-tools` },
+    { title: "Learn", icon: GraduationCap, url: `${homeUrl}/sd-learn` },
+    { title: "Business ideas", icon: Lightbulb, url: `${homeUrl}/sd-ideas` },
     { title: "Get more features", icon: Sparkles, url: `${homeUrl}/sd-store` },
     { title: "Search", icon: Search, url: `${homeUrl}/search` },
   ];
